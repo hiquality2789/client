@@ -25,3 +25,5 @@ All the [contributors](https://github.com/kami-blue/client/graphs/contributors),
 ## Star Chart
 
 [![Stargazers over time](https://starchart.cc/kami-blue/client.svg)](https://starchart.cc/kami-blue/client)
+
+this will be reanmed eventually
